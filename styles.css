@@ -1,0 +1,20 @@
+.forms{
+    text-align: center;
+    border: 1px black;
+    background-color: rgb(111, 128, 169);
+    width: 40%;
+    margin: auto;
+    margin-top: 50px;
+    padding: 25px;
+    border-radius: 10px;
+}
+label{
+    padding: 10px;
+}
+input{
+    text-align: flex-end;
+   margin: 10px;
+}
+button{
+    text-align: center;
+}
